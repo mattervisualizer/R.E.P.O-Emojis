@@ -1,8 +1,8 @@
 ## R.E.P.O Emojis
 Emojis were exported from game assets using [AssetRipper](https://github.com/AssetRipper/AssetRipper). Stored in `[STEAM_PATH]\steamapps\common\REPO\REPO_Data\resources.assets` in the "Sprite Data Storage", PathID=130
 
-[R.E.P.O Emoji Sticker pack in Telegram](https://t.me/addstickers/repo_game_stickers)
-[R.E.P.O Emoji pack in Telegram](https://t.me/addemoji/repo_emojis)
+[🫵R.E.P.O Emoji Sticker pack in Telegram](https://t.me/addstickers/repo_game_stickers)
+[🫵R.E.P.O Emoji pack in Telegram](https://t.me/addemoji/repo_emojis)
 
 Download ZIP (64x64)
 

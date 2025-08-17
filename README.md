@@ -4,7 +4,7 @@ Emojis were exported from game assets using [AssetRipper](https://github.com/Ass
 [🫵R.E.P.O Emoji Sticker pack in Telegram](https://t.me/addstickers/repo_game_stickers)
 [🫵R.E.P.O Emoji pack in Telegram](https://t.me/addemoji/repo_emojis)
 
-Download ZIP (64x64)
+Download ZIP (64x64) in releases
 
 ![path1](https://i.ibb.co/PZK8ZbyG/image-2025-08-17-04-18-37.jpg)
 ![path2](https://i.ibb.co/B2k3Q64K/image.png)

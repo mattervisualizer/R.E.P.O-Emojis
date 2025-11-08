@@ -4,6 +4,10 @@ Emojis were exported from game assets using [AssetRipper](https://github.com/Ass
 [🫵R.E.P.O Emoji Sticker pack in Telegram](https://t.me/addstickers/repo_game_stickers)
 [🫵R.E.P.O Emoji pack in Telegram](https://t.me/addemoji/repo_emojis)
 
+UPDATE 08.11.2025
+[🫵R.E.P.O Emoji Sticker pack (Moster Update) in Telegram](https://t.me/addstickers/repo_game_stickers_moster_update)
+Emojis from Moster Update added in the previous emoji pack
+
 Download ZIP (64x64) in releases
 
 ![path1](https://i.ibb.co/PZK8ZbyG/image-2025-08-17-04-18-37.jpg)
